@@ -1,0 +1,17 @@
+<html>
+    <head>
+     <title>firstPage</title>
+    </head>
+    <body>
+        <h1> learning HTML </h1>
+
+        <p> Tasks 6/29/17</p>
+        <ol>
+            <li> Install git and clone this project </li>
+            <li> Create your own branch in this repository </li>
+            <li> Create a html file with name "test_urName" </li>
+            <li> Push into the repository </li>
+            <li> Create a pull request for me </li>
+        </ol>
+    </body>
+</html>
